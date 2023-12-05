@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630013451100",
+    "project_id": "multi-notes-e8781",
+    "storage_bucket": "multi-notes-e8781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630013451100:android:c3194f373b98297673ff99",
+        "android_client_info": {
+          "package_name": "com.example.multinotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAACZZRLDCgUi6YvN9U5Y78BLZ3fyAwYdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
